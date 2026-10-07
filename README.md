@@ -2,13 +2,13 @@
 
 **Candidate Name:** Payal Sulaniya  
 **College Email ID:** payal103bteceai24@igdtuw.ac.in 
-**College / Campus:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
+**College:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
 **Demo Video Link:** [YouTube / Unlisted Link]  
 **Slide Deck Link (if hosted externally):** [Link]
 
 ---
 
-## 1. Project Overview / Problem Statement & Approach
+## 1. Problem Statement & Approach
 
 Financial institutions receive large volumes of unstructured information through sources such as financial news and public social-media posts. Identifying financially relevant events from this information and translating them into actionable risk signals can be difficult because the information is diverse, noisy, and not directly structured for downstream risk analysis.
 
@@ -297,7 +297,7 @@ The current event classifier supports:
 - Merger & Acquisition
 - Product Launch
 - Regulatory
-- Earnings / Financial Results
+- Financial Results
 ### Event Classification Validation
  
 A curated validation set containing 30 financial headlines was used to evaluate the event classifier.
