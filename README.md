@@ -153,7 +153,7 @@ The source dataset provides stock-day dates rather than exact timestamps for ind
 ### Clone the Repository
  
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Payal12-max/IGDTUW-Payal-Sulaniya-Hackathon.git>
 cd IGDTUW-Payal-Sulaniya-Hackathon
 ```
  
