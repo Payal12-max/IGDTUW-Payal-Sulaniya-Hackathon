@@ -1,7 +1,7 @@
 # RiskPulse - S&P Global & Crisil Campus Hackathon
 
 **Candidate Name:** Payal Sulaniya  
-**College Email ID:** payal103bteceai24@igdtuw.ac.in 
+**College Email ID:** payal103bteceai24@igdtuw.ac.in  
 **College:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
 **Demo Video Link:** [YouTube / Unlisted Link]  
 **Slide Deck Link (if hosted externally):** [Link]
