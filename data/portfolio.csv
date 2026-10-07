@@ -1,0 +1,10 @@
+asset_id,asset_type,sector,description,market_value,rate_sensitivity,equity_sensitivity,credit_sensitivity
+L001,Loan,Energy,Corporate energy loan,15000000,0.5,0.0,1.0
+L002,Loan,Technology,Corporate technology loan,12000000,0.5,0.0,1.0
+L003,Loan,Manufacturing,Industrial manufacturing loan,10000000,0.5,0.0,1.0
+B001,Bond,Government,Government bond portfolio,18000000,1.0,0.0,0.2
+B002,Bond,Corporate,Investment grade corporate bonds,14000000,0.8,0.0,0.8
+E001,Equity,Financial,Financial sector equity holdings,8000000,0.0,1.0,0.3
+E002,Equity,Technology,Technology sector equity holdings,7000000,0.0,1.0,0.2
+D001,Derivative,Interest Rate,Interest rate derivative position,9000000,1.5,0.0,0.2
+D002,Derivative,Credit,Credit derivative position,7000000,0.0,0.0,1.5

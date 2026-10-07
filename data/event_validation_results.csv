@@ -1,0 +1,31 @@
+headline,expected_event,predicted_event,confidence,correct
+"Shares flat in Asia before Iran sanctions news, Nvidia results",Geopolitical,Geopolitical,0.5049554705619812,True
+"AI Trade in Focus as Nvidia Earnings and Iran Sanctions Keep Markets on Edge: Dow Jones, S&P, Nasdaq, Wall Street Futures",Geopolitical,Earnings / Financial Results,0.5228071212768555,False
+"U.S. Expands Iran Sanctions as Bitcoin Breaks $80,000 and Markets Await Nvidia: Dow Jones, S&P, Nasdaq, Wall Street Futures",Geopolitical,Geopolitical,0.5520939826965332,True
+Bitcoin and Ethereum slide as US Iran war simmers & rate hike odds rise,Geopolitical,Geopolitical,0.7999739646911621,True
+Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture,Geopolitical,Geopolitical,0.46789970993995667,True
+"US Stock Market: Fed uncertainty, oil prices in focus as earnings sustain market optimism",Macroeconomic,Earnings / Financial Results,0.7803148031234741,False
+Bitcoin hovers near $63K ahead of Fed rate decision as investors assess liquidity outlook,Macroeconomic,Macroeconomic,0.29756152629852295,True
+"S&P 500 Falls, Bitcoin Surges as Traders Await the Fed Minutes: What Next?",Macroeconomic,Macroeconomic,0.3612399101257324,True
+"Bitcoin climbs towards $64,000 as cooling inflation and falling treasury yields aid recovery",Macroeconomic,Macroeconomic,0.2994798421859741,True
+"Wall Street Week Ahead: Warsh's Jackson speech, PCE inflation and Nvidia earnings in focus",Macroeconomic,Earnings / Financial Results,0.47166112065315247,False
+"Archer Aviation To Acquire Boeing's Wisk, SkyGrid And Insitu In All-Stock Deal",Merger & Acquisition,Merger & Acquisition,0.7812931537628174,True
+"Tesla (NASDAQ: TSLA) And SpaceX Merger Could Hand Elon Musk An $824 Billion Windfall, Ross Gerber Reacts",Merger & Acquisition,Merger & Acquisition,0.6050058603286743,True
+"Archer Aviation Stock Gains 14% On Boeing's Wisk Aero, SkyGrid And Insitu Acquisition",Merger & Acquisition,Merger & Acquisition,0.6686508059501648,True
+"Archer Aviation shares jump nearly 10% on deal to acquire Boeing's Wisk, two other units",Merger & Acquisition,Merger & Acquisition,0.5383272171020508,True
+MPS board to discuss options against Intesa takeover; US court allows Signature Bank investor lawsuit to proceed,Merger & Acquisition,Macroeconomic,0.34598883986473083,False
+"Google Pixel 11, Pixel 11 Pro and Pro XL launched in India: Price, specs and launch offers",Product Launch,Product Launch,0.850101888179779,True
+"Google Officially Unveils Pixel 11 Lineup With Agentic Gemini AI, New Tensor G6 Chip And Price Hikes",Product Launch,Product Launch,0.9103534817695618,True
+Robinhood Launches Crypto Trading in the UK,Product Launch,Product Launch,0.8994210362434387,True
+Apple (NASDAQ: AAPL) Launches Houston Advanced Manufacturing Center To Train American Workers And Small Businesses,Product Launch,Product Launch,0.5592054128646851,True
+Google Pixel Watch 5 and upgraded Buds Pro 2 launched in India: Check price and features,Product Launch,Product Launch,0.8871243000030518,True
+Apple Digital Markets Act compliance: EU 'welcomes' Apple steps to comply with digital rules,Regulatory,Regulatory,0.4789273738861084,True
+"SEC's ""Regulation Crypto Assets"" Proposal Offers Potential Off-Ramp for XRP",Regulatory,Regulatory,0.8031072020530701,True
+CAS manipulation: SEBI's swift ban on JPMorgan unit seen as warning to traders,Regulatory,Credit Event,0.4826754033565521,False
+JPMorgan debanked Polymarket over regulatory issues; BofA purchases India shadow bank shares,Regulatory,Regulatory,0.7472328543663025,True
+Meta Platforms (NASDAQ: META) Stock Price Ticks Higher Despite Mounting Australian Regulatory Pressure,Regulatory,Regulatory,0.6690272688865662,True
+Airbnb hits four-year high after lifting revenue outlook,Earnings / Financial Results,Earnings / Financial Results,0.5386286377906799,True
+Airbnb jumps after raising its 2026 revenue outlook again,Earnings / Financial Results,Earnings / Financial Results,0.5533612966537476,True
+IonQ (NYSE: IONQ) Revenue Surges Fivefold As Meta Platforms (NASDAQ: META) Posts Steady AI-Fueled Growth,Earnings / Financial Results,Earnings / Financial Results,0.6386913657188416,True
+FinancialContent - Palantir Technologies's Q2 Earnings Call: Our Top 5 Analyst Questions,Earnings / Financial Results,Earnings / Financial Results,0.9427987933158875,True
+"Embraer Flies On Booming Earnings And Backlog, Outpacing Boeing, Airbus",Earnings / Financial Results,Earnings / Financial Results,0.8726891875267029,True
