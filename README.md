@@ -4,7 +4,7 @@
 **College Email ID:** payal103bteceai24@igdtuw.ac.in  
 **College:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
 **Demo Video Link:** [YouTube / Unlisted Link]  
-**Slide Deck Link (if hosted externally):** [Link]
+**Slide Deck Link (if hosted externally):** [View Presentation](https://canva.link/0vbsgatitt472kf)
 
 ---
 
