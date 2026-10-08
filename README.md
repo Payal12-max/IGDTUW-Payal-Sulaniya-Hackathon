@@ -19,7 +19,14 @@ The prototype implements the downstream **Strategic, Event-Driven Portfolio Stre
 > **Scope:** The current prototype uses historical public datasets for reproducibility. It does not claim live or streaming data ingestion. The portfolio and stress scenarios are synthetic and simplified for demonstration purposes.
 
 ---
+## Dashboard Preview
 
+The RiskPulse dashboard presents the detected risk signal and the resulting
+event-driven portfolio stress scenario.
+
+![RiskPulse Dashboard](docs/dashboard.png)
+
+--- 
 ## 2. Architecture & Tech Stack
 
 ### System Architecture
