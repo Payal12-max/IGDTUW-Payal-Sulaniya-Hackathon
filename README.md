@@ -65,7 +65,7 @@ Sentiment    Event      Impact
           Dashboard
 ```
 
-## 2. Technology Stack
+## 3. Technology Stack
  
 | Layer | Technology |
 |---|---|
@@ -95,7 +95,7 @@ Sentiment    Event      Impact
 | `src/api.py` | Exposes machine-readable risk and stress-test results |
 | `dashboard.py` | Provides the Streamlit decision-support dashboard |
  
-## 3. Dataset Used
+## 4. Dataset Used
  
 RiskPulse uses publicly available historical datasets. No confidential or proprietary financial data is used.
  
@@ -149,7 +149,7 @@ The source dataset provides stock-day dates rather than exact timestamps for ind
 - Social-media records use the date supplied by the source dataset.
 - The portfolio used for stress testing is synthetic.
 - Portfolio sensitivities and scenario shocks are simplified assumptions for the prototype.
-## 4. Quickstart & Installation
+## 5. Quickstart & Installation
  
 **Runtime:** Python 3.10+
  
@@ -282,7 +282,7 @@ streamlit run dashboard.py
  
 The Streamlit dashboard provides a visual representation of the detected risk event and resulting portfolio stress.
  
-## 5. Key Results & Domain Impact
+## 6. Key Results & Domain Impact
  
 ### Risk Signal Output
  
@@ -390,7 +390,7 @@ This creates a bridge between qualitative information analysis and quantitative 
  
 The API layer also allows the generated risk signals to be consumed programmatically by downstream applications rather than being limited to dashboard visualization.
  
-## 6. Portfolio Stress-Testing Methodology
+## 7. Portfolio Stress-Testing Methodology
  
 The prototype uses a synthetic wholesale banking portfolio containing:
  
@@ -417,7 +417,7 @@ The current prototype supports stress scenarios for:
 - Regulatory events
 The stress calculation is intended to demonstrate the strategic impact of major events on a synthetic portfolio.
  
-## 7. Impact-Scoring Methodology
+## 8. Impact-Scoring Methodology
  
 The impact score is a transparent prototype severity measure ranging from 1 to 10.
  
@@ -448,7 +448,7 @@ The final classified-event score is constrained to the 1–10 range.
  
 The current impact score is a transparent rule-based severity measure. It is not a trained prediction of actual monetary loss, probability of default, Value at Risk, Expected Shortfall, or regulatory capital.
  
-## 8. Repository Structure
+## 9. Repository Structure
  
 ```text
 IGDTUW-Payal-Sulaniya-Hackathon/
@@ -485,7 +485,7 @@ IGDTUW-Payal-Sulaniya-Hackathon/
     └── presentation.pdf
 ```
  
-## 9. Limitations & Scope
+## 10. Limitations & Scope
  
 - The current implementation uses historical public datasets rather than a live streaming ingestion system.
 - The social-media dataset provides stock-day dates rather than exact timestamps for individual posts.
@@ -495,7 +495,7 @@ IGDTUW-Payal-Sulaniya-Hackathon/
 - The impact score is a transparent rule-based severity measure rather than a trained loss-prediction model.
 - The event-classification validation result is based on a small curated validation set of 30 headlines.
 - The prototype is intended for demonstration and decision-support purposes and is not a production banking risk-management system.
-## 10. Future Extensions
+## 11. Future Extensions
  
 Potential future extensions include:
  
@@ -513,19 +513,19 @@ Potential future extensions include:
 - Scenario comparison and alerting
 These are potential extensions and are not represented as currently implemented functionality.
  
-## 11. AI Assistance Disclosure
+## 12. AI Assistance Disclosure
  
 AI-assisted development tools were used during development for activities including code generation, debugging, documentation support, and technical assistance.
  
 The submitted implementation, outputs, assumptions, and limitations were reviewed and tested in the project's local environment.
  
-## 12. License
+## 13. License
  
 This project is released under the MIT License.
  
 See [LICENSE](LICENSE) for the full license text.
  
-## 13. Hackathon Submission
+## 14. Hackathon Submission
  
 **Hackathon:** S&P Global & Crisil Campus Hackathon 2026
  
