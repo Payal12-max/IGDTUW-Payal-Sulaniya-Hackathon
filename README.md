@@ -160,7 +160,7 @@ The source dataset provides stock-day dates rather than exact timestamps for ind
 ### Clone the Repository
  
 ```bash
-git clone <https://github.com/Payal12-max/IGDTUW-Payal-Sulaniya-Hackathon.git>
+git clone https://github.com/Payal12-max/IGDTUW-Payal-Sulaniya-Hackathon.git
 cd IGDTUW-Payal-Sulaniya-Hackathon
 ```
  
@@ -482,6 +482,7 @@ IGDTUW-Payal-Sulaniya-Hackathon/
 │
 └── docs/
     ├── architecture.png
+    └── dashboard.png
     └── presentation.pdf
 ```
  
