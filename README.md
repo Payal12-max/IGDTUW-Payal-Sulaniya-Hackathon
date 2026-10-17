@@ -536,6 +536,6 @@ See [LICENSE](LICENSE) for the full license text.
  
 **College:** Indira Gandhi Delhi Technical University for Women (IGDTUW)
  
-**Demo Video:** [Add final demo video link]
+**Demo Video:** [View Demo video](https://www.youtube.com/watch?v=UGWUbYzNrLA)
  
-**Slide Deck:** [Add slide deck link if hosted externally]
+**Slide Deck:** [View Presentation](docs/presentation.pdf)
